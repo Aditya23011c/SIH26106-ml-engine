@@ -1,0 +1,2481 @@
+subject,body,label,subtype
+Reminder: INV-27139 payment pending,"Dear Amit,
+
+This is a friendly reminder that invoice INV-27139 ($6,200) from Vertex Solutions is still pending payment. Kindly process this urgently, within the hour using the account details previously shared, and send confirmation once done.
+
+Regards,
+Neha Bansal",bec,fake_vendor_payment_reminder
+Payroll account change request - as soon as possible,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm as soon as possible so my next paycheck isn't delayed.
+
+Regards,
+Sunita Bansal",bec,hr_payroll_redirect
+Second notice - INV-78202 overdue,"Hi Sanjay,
+
+We haven't received payment for INV-78202 (₹1,25,000). Please arrange the transfer before close of business today to avoid late fees and account suspension with Summit Logistics.
+
+Thanks,
+Sunita Choudhary",bec,fake_vendor_payment_reminder
+Compliance action required - INV-28242,"Hello Kavita,
+
+Our compliance review flagged an outstanding settlement (INV-28242, ₹22,30,000) that must be resolved urgently, within the hour to avoid regulatory penalties for BlueRidge Textiles. Please action this personally.
+
+Regards,
+Karan Iyer",bec,fake_legal_compliance_request
+Confidential - handle personally,"Hi Meera,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $6,200 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this as soon as possible?
+
+Thanks,
+Rajesh Iyer",bec,fake_ceo_wire_request
+Compliance action required - INV-36972,"Hello Kavita,
+
+Our compliance review flagged an outstanding settlement (INV-36972, $18,500) that must be resolved urgently, within the hour to avoid regulatory penalties for Meridian Exports. Please action this personally.
+
+Regards,
+Anjali Kapoor",bec,fake_legal_compliance_request
+Outstanding invoice INV-41946 - payment overdue,"Hello Sanjay,
+
+Invoice INV-41946 for ₹22,30,000 remains outstanding. Please process payment before close of business today to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Deepa Iyer
+Meridian Exports",bec,vendor_invoice_fraud
+Time-sensitive legal matter - your action needed,"Dear Deepa,
+
+I'm assisting Neha Sharma on a confidential legal matter regarding BlueRidge Textiles. We need a payment of $18,500 processed urgently, within the hour to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Vikram Reddy",bec,hr_payroll_redirect
+Payroll account change request - immediately,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm immediately so my next paycheck isn't delayed.
+
+Regards,
+Neha Reddy",bec,hr_payroll_redirect
+Time-sensitive legal matter - your action needed,"Dear Sanjay,
+
+I'm assisting Kavita Sharma on a confidential legal matter regarding Nova Industries. We need a payment of ₹12,40,000 processed before close of business today to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Reminder: INV-54589 payment pending,"Dear Amit,
+
+This is a friendly reminder that invoice INV-54589 ($18,500) from Falcon Enterprises is still pending payment. Kindly process this as soon as possible using the account details previously shared, and send confirmation once done.
+
+Regards,
+Kavita Kapoor",bec,fake_vendor_payment_reminder
+Reminder: INV-95344 payment pending,"Dear Meera,
+
+This is a friendly reminder that invoice INV-95344 (₹9,60,000) from BlueRidge Textiles is still pending payment. Kindly process this before end of day using the account details previously shared, and send confirmation once done.
+
+Regards,
+Meera Sharma",bec,fake_vendor_payment_reminder
+Outstanding invoice INV-32871 - payment overdue,"Hello Vikram,
+
+Invoice INV-32871 for ₹9,60,000 remains outstanding. Please process payment immediately to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Meera Gupta
+Summit Logistics",bec,vendor_invoice_fraud
+Compliance action required - INV-22795,"Hello Kavita,
+
+Our compliance review flagged an outstanding settlement (INV-22795, ₹22,30,000) that must be resolved before close of business today to avoid regulatory penalties for Falcon Enterprises. Please action this personally.
+
+Regards,
+Karan Reddy",bec,fake_legal_compliance_request
+Updated payment details for INV-46655,"Dear Amit,
+
+Please note that our banking details have changed. For invoice INV-46655 (amount ₹1,25,000), kindly remit payment to our new account at Axis Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Vertex Solutions",bec,vendor_invoice_fraud
+Reminder: INV-13037 payment pending,"Dear Kavita,
+
+This is a friendly reminder that invoice INV-13037 (₹22,30,000) from Falcon Enterprises is still pending payment. Kindly process this immediately using the account details previously shared, and send confirmation once done.
+
+Regards,
+Sanjay Mehta",bec,fake_vendor_payment_reminder
+Reminder: INV-83874 payment pending,"Dear Anjali,
+
+This is a friendly reminder that invoice INV-83874 (₹1,25,000) from Summit Logistics is still pending payment. Kindly process this immediately using the account details previously shared, and send confirmation once done.
+
+Regards,
+Anjali Gupta",bec,fake_vendor_payment_reminder
+Updated payment details for INV-41963,"Dear Neha,
+
+Please note that our banking details have changed. For invoice INV-41963 (amount ₹22,30,000), kindly remit payment to our new account at Axis Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, BlueRidge Textiles",bec,vendor_invoice_fraud
+Outstanding invoice INV-10336 - payment overdue,"Hello Karan,
+
+Invoice INV-10336 for ₹9,60,000 remains outstanding. Please process payment urgently, within the hour to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Karan Kapoor
+Vertex Solutions",bec,vendor_invoice_fraud
+Confidential - handle personally,"Hi Karan,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹2,75,500 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this before end of day?
+
+Thanks,
+Rajesh Reddy",bec,fake_ceo_wire_request
+Confidential - handle personally,"Hi Karan,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹12,40,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this immediately?
+
+Thanks,
+Arjun Iyer",bec,fake_ceo_wire_request
+Reminder: INV-19564 payment pending,"Dear Kavita,
+
+This is a friendly reminder that invoice INV-19564 (₹22,30,000) from Meridian Exports is still pending payment. Kindly process this immediately using the account details previously shared, and send confirmation once done.
+
+Regards,
+Sunita Malhotra",bec,fake_vendor_payment_reminder
+Quick request - immediately,"Hi Kavita,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹2,75,500 to a new vendor account immediately. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Rajesh Bansal
+CEO, Crestline Traders",bec,fake_ceo_wire_request
+Second notice - INV-78879 overdue,"Hi Kavita,
+
+We haven't received payment for INV-78879 (₹12,40,000). Please arrange the transfer before close of business today to avoid late fees and account suspension with Orion Manufacturing.
+
+Thanks,
+Karan Joshi",bec,fake_vendor_payment_reminder
+Updated payment details for INV-30585,"Dear Karan,
+
+Please note that our banking details have changed. For invoice INV-30585 (amount ₹12,40,000), kindly remit payment to our new account at Axis Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Orion Manufacturing",bec,vendor_invoice_fraud
+Confidential - handle personally,"Hi Rohit,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $18,500 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this before close of business today?
+
+Thanks,
+Neha Mehta",bec,fake_ceo_wire_request
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Amit Kapoor",bec,hr_payroll_redirect
+Compliance action required - INV-67850,"Hello Vikram,
+
+Our compliance review flagged an outstanding settlement (INV-67850, ₹4,85,000) that must be resolved as soon as possible to avoid regulatory penalties for Vertex Solutions. Please action this personally.
+
+Regards,
+Karan Joshi",bec,fake_legal_compliance_request
+Reminder: INV-14138 payment pending,"Dear Rohit,
+
+This is a friendly reminder that invoice INV-14138 ($18,500) from Meridian Exports is still pending payment. Kindly process this as soon as possible using the account details previously shared, and send confirmation once done.
+
+Regards,
+Deepa Choudhary",bec,fake_vendor_payment_reminder
+Compliance action required - INV-98094,"Hello Amit,
+
+Our compliance review flagged an outstanding settlement (INV-98094, ₹12,40,000) that must be resolved before end of day to avoid regulatory penalties for Crestline Traders. Please action this personally.
+
+Regards,
+Meera Malhotra",bec,fake_legal_compliance_request
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Deepa Iyer",bec,hr_payroll_redirect
+Outstanding invoice INV-75323 - payment overdue,"Hello Priya,
+
+Invoice INV-75323 for ₹2,75,500 remains outstanding. Please process payment urgently, within the hour to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Sunita Verma
+Falcon Enterprises",bec,vendor_invoice_fraud
+Second notice - INV-27750 overdue,"Hi Priya,
+
+We haven't received payment for INV-27750 (₹2,75,500). Please arrange the transfer before close of business today to avoid late fees and account suspension with Crestline Traders.
+
+Thanks,
+Kavita Sharma",bec,fake_vendor_payment_reminder
+Updated payment details for INV-97835,"Dear Priya,
+
+Please note that our banking details have changed. For invoice INV-97835 (amount ₹1,25,000), kindly remit payment to our new account at Axis Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Meridian Exports",bec,vendor_invoice_fraud
+Second notice - INV-47941 overdue,"Hi Meera,
+
+We haven't received payment for INV-47941 (₹2,75,500). Please arrange the transfer immediately to avoid late fees and account suspension with Meridian Exports.
+
+Thanks,
+Amit Sharma",bec,fake_vendor_payment_reminder
+Second notice - INV-85166 overdue,"Hi Neha,
+
+We haven't received payment for INV-85166 (₹12,40,000). Please arrange the transfer as soon as possible to avoid late fees and account suspension with Crestline Traders.
+
+Thanks,
+Kavita Nair",bec,fake_vendor_payment_reminder
+Outstanding invoice INV-88116 - payment overdue,"Hello Sunita,
+
+Invoice INV-88116 for ₹2,75,500 remains outstanding. Please process payment immediately to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Anjali Reddy
+Orion Manufacturing",bec,vendor_invoice_fraud
+Updated payment details for INV-93202,"Dear Sanjay,
+
+Please note that our banking details have changed. For invoice INV-93202 (amount $6,200), kindly remit payment to our new account at ICICI Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Crestline Traders",bec,vendor_invoice_fraud
+Compliance action required - INV-68947,"Hello Sunita,
+
+Our compliance review flagged an outstanding settlement (INV-68947, ₹4,85,000) that must be resolved urgently, within the hour to avoid regulatory penalties for Orion Manufacturing. Please action this personally.
+
+Regards,
+Arjun Verma",bec,fake_legal_compliance_request
+Time-sensitive legal matter - your action needed,"Dear Meera,
+
+I'm assisting Deepa Choudhary on a confidential legal matter regarding Falcon Enterprises. We need a payment of ₹4,85,000 processed urgently, within the hour to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Reminder: INV-74382 payment pending,"Dear Vikram,
+
+This is a friendly reminder that invoice INV-74382 (₹9,60,000) from Falcon Enterprises is still pending payment. Kindly process this before end of day using the account details previously shared, and send confirmation once done.
+
+Regards,
+Karan Iyer",bec,fake_vendor_payment_reminder
+Outstanding invoice INV-93746 - payment overdue,"Hello Amit,
+
+Invoice INV-93746 for ₹9,60,000 remains outstanding. Please process payment before close of business today to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Priya Mehta
+Vertex Solutions",bec,vendor_invoice_fraud
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Vikram Iyer",bec,hr_payroll_redirect
+Payroll account change request - before close of business today,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm before close of business today so my next paycheck isn't delayed.
+
+Regards,
+Sunita Sharma",bec,hr_payroll_redirect
+Compliance action required - INV-81256,"Hello Anjali,
+
+Our compliance review flagged an outstanding settlement (INV-81256, $6,200) that must be resolved immediately to avoid regulatory penalties for Meridian Exports. Please action this personally.
+
+Regards,
+Kavita Choudhary",bec,fake_legal_compliance_request
+Second notice - INV-72580 overdue,"Hi Neha,
+
+We haven't received payment for INV-72580 (₹2,75,500). Please arrange the transfer urgently, within the hour to avoid late fees and account suspension with BlueRidge Textiles.
+
+Thanks,
+Priya Kapoor",bec,fake_vendor_payment_reminder
+Time-sensitive legal matter - your action needed,"Dear Meera,
+
+I'm assisting Meera Verma on a confidential legal matter regarding Nova Industries. We need a payment of $6,200 processed before end of day to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Outstanding invoice INV-52823 - payment overdue,"Hello Rajesh,
+
+Invoice INV-52823 for ₹9,60,000 remains outstanding. Please process payment before close of business today to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Anjali Nair
+Summit Logistics",bec,vendor_invoice_fraud
+Payroll account change request - before end of day,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm before end of day so my next paycheck isn't delayed.
+
+Regards,
+Amit Reddy",bec,hr_payroll_redirect
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Rohit Verma",bec,hr_payroll_redirect
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Deepa Sharma",bec,hr_payroll_redirect
+Payroll account change request - as soon as possible,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm as soon as possible so my next paycheck isn't delayed.
+
+Regards,
+Deepa Mehta",bec,hr_payroll_redirect
+Reminder: INV-26059 payment pending,"Dear Sanjay,
+
+This is a friendly reminder that invoice INV-26059 (₹22,30,000) from Vertex Solutions is still pending payment. Kindly process this urgently, within the hour using the account details previously shared, and send confirmation once done.
+
+Regards,
+Sanjay Verma",bec,fake_vendor_payment_reminder
+Updated payment details for INV-45954,"Dear Neha,
+
+Please note that our banking details have changed. For invoice INV-45954 (amount ₹2,75,500), kindly remit payment to our new account at Kotak Mahindra Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Nova Industries",bec,vendor_invoice_fraud
+Outstanding invoice INV-71797 - payment overdue,"Hello Anjali,
+
+Invoice INV-71797 for $18,500 remains outstanding. Please process payment immediately to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Arjun Malhotra
+Vertex Solutions",bec,vendor_invoice_fraud
+Outstanding invoice INV-19150 - payment overdue,"Hello Sanjay,
+
+Invoice INV-19150 for ₹2,75,500 remains outstanding. Please process payment urgently, within the hour to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Amit Kapoor
+Orion Manufacturing",bec,vendor_invoice_fraud
+Confidential - handle personally,"Hi Rajesh,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹22,30,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this urgently, within the hour?
+
+Thanks,
+Vikram Kapoor",bec,fake_ceo_wire_request
+Confidential - handle personally,"Hi Rohit,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹2,75,500 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this before close of business today?
+
+Thanks,
+Arjun Nair",bec,fake_ceo_wire_request
+Time-sensitive legal matter - your action needed,"Dear Anjali,
+
+I'm assisting Amit Bansal on a confidential legal matter regarding Meridian Exports. We need a payment of ₹9,60,000 processed as soon as possible to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Compliance action required - INV-27392,"Hello Amit,
+
+Our compliance review flagged an outstanding settlement (INV-27392, ₹2,75,500) that must be resolved before end of day to avoid regulatory penalties for Nova Industries. Please action this personally.
+
+Regards,
+Karan Kapoor",bec,fake_legal_compliance_request
+Second notice - INV-67535 overdue,"Hi Rohit,
+
+We haven't received payment for INV-67535 ($6,200). Please arrange the transfer before end of day to avoid late fees and account suspension with Orion Manufacturing.
+
+Thanks,
+Deepa Sharma",bec,fake_vendor_payment_reminder
+Compliance action required - INV-73277,"Hello Arjun,
+
+Our compliance review flagged an outstanding settlement (INV-73277, ₹4,85,000) that must be resolved immediately to avoid regulatory penalties for Summit Logistics. Please action this personally.
+
+Regards,
+Kavita Malhotra",bec,fake_legal_compliance_request
+Outstanding invoice INV-40433 - payment overdue,"Hello Meera,
+
+Invoice INV-40433 for ₹2,75,500 remains outstanding. Please process payment before close of business today to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Arjun Choudhary
+Orion Manufacturing",bec,vendor_invoice_fraud
+Updated payment details for INV-32962,"Dear Anjali,
+
+Please note that our banking details have changed. For invoice INV-32962 (amount ₹4,85,000), kindly remit payment to our new account at Kotak Mahindra Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Crestline Traders",bec,vendor_invoice_fraud
+Time-sensitive legal matter - your action needed,"Dear Sanjay,
+
+I'm assisting Neha Iyer on a confidential legal matter regarding Meridian Exports. We need a payment of ₹1,25,000 processed urgently, within the hour to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Outstanding invoice INV-51505 - payment overdue,"Hello Anjali,
+
+Invoice INV-51505 for $6,200 remains outstanding. Please process payment before close of business today to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Deepa Kapoor
+BlueRidge Textiles",bec,vendor_invoice_fraud
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Neha Gupta",bec,hr_payroll_redirect
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Neha Reddy",bec,hr_payroll_redirect
+Compliance action required - INV-65448,"Hello Sanjay,
+
+Our compliance review flagged an outstanding settlement (INV-65448, $6,200) that must be resolved before end of day to avoid regulatory penalties for Summit Logistics. Please action this personally.
+
+Regards,
+Arjun Kapoor",bec,fake_legal_compliance_request
+Second notice - INV-37168 overdue,"Hi Vikram,
+
+We haven't received payment for INV-37168 (₹9,60,000). Please arrange the transfer before close of business today to avoid late fees and account suspension with Orion Manufacturing.
+
+Thanks,
+Sanjay Iyer",bec,fake_vendor_payment_reminder
+Reminder: INV-18163 payment pending,"Dear Arjun,
+
+This is a friendly reminder that invoice INV-18163 (₹22,30,000) from Meridian Exports is still pending payment. Kindly process this before end of day using the account details previously shared, and send confirmation once done.
+
+Regards,
+Deepa Reddy",bec,fake_vendor_payment_reminder
+Outstanding invoice INV-21836 - payment overdue,"Hello Karan,
+
+Invoice INV-21836 for ₹1,25,000 remains outstanding. Please process payment before close of business today to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Sunita Malhotra
+Meridian Exports",bec,vendor_invoice_fraud
+Payroll account change request - as soon as possible,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm as soon as possible so my next paycheck isn't delayed.
+
+Regards,
+Vikram Malhotra",bec,hr_payroll_redirect
+Reminder: INV-31299 payment pending,"Dear Sanjay,
+
+This is a friendly reminder that invoice INV-31299 (₹1,25,000) from Summit Logistics is still pending payment. Kindly process this before close of business today using the account details previously shared, and send confirmation once done.
+
+Regards,
+Kavita Gupta",bec,fake_vendor_payment_reminder
+Updated payment details for INV-99687,"Dear Deepa,
+
+Please note that our banking details have changed. For invoice INV-99687 (amount ₹9,60,000), kindly remit payment to our new account at HDFC Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Orion Manufacturing",bec,vendor_invoice_fraud
+Updated payment details for INV-21221,"Dear Deepa,
+
+Please note that our banking details have changed. For invoice INV-21221 (amount $18,500), kindly remit payment to our new account at Kotak Mahindra Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Nova Industries",bec,vendor_invoice_fraud
+Payroll account change request - as soon as possible,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm as soon as possible so my next paycheck isn't delayed.
+
+Regards,
+Priya Iyer",bec,hr_payroll_redirect
+Compliance action required - INV-70012,"Hello Anjali,
+
+Our compliance review flagged an outstanding settlement (INV-70012, ₹1,25,000) that must be resolved as soon as possible to avoid regulatory penalties for BlueRidge Textiles. Please action this personally.
+
+Regards,
+Arjun Choudhary",bec,fake_legal_compliance_request
+Compliance action required - INV-39470,"Hello Karan,
+
+Our compliance review flagged an outstanding settlement (INV-39470, ₹9,60,000) that must be resolved as soon as possible to avoid regulatory penalties for Crestline Traders. Please action this personally.
+
+Regards,
+Karan Reddy",bec,fake_legal_compliance_request
+Quick request - as soon as possible,"Hi Vikram,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹4,85,000 to a new vendor account as soon as possible. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Amit Mehta
+CEO, Crestline Traders",bec,fake_ceo_wire_request
+"Quick request - urgently, within the hour","Hi Sunita,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of $6,200 to a new vendor account urgently, within the hour. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Sunita Reddy
+CEO, Falcon Enterprises",bec,fake_ceo_wire_request
+Payroll account change request - immediately,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm immediately so my next paycheck isn't delayed.
+
+Regards,
+Arjun Gupta",bec,hr_payroll_redirect
+Compliance action required - INV-53463,"Hello Amit,
+
+Our compliance review flagged an outstanding settlement (INV-53463, $6,200) that must be resolved before close of business today to avoid regulatory penalties for Nova Industries. Please action this personally.
+
+Regards,
+Rohit Choudhary",bec,fake_legal_compliance_request
+Time-sensitive legal matter - your action needed,"Dear Neha,
+
+I'm assisting Neha Kapoor on a confidential legal matter regarding Nova Industries. We need a payment of $18,500 processed immediately to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Second notice - INV-80931 overdue,"Hi Anjali,
+
+We haven't received payment for INV-80931 (₹12,40,000). Please arrange the transfer immediately to avoid late fees and account suspension with Meridian Exports.
+
+Thanks,
+Priya Sharma",bec,fake_vendor_payment_reminder
+"Payroll account change request - urgently, within the hour","Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm urgently, within the hour so my next paycheck isn't delayed.
+
+Regards,
+Priya Iyer",bec,hr_payroll_redirect
+Updated payment details for INV-36680,"Dear Sunita,
+
+Please note that our banking details have changed. For invoice INV-36680 (amount ₹4,85,000), kindly remit payment to our new account at SBI going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Falcon Enterprises",bec,vendor_invoice_fraud
+Compliance action required - INV-19694,"Hello Sunita,
+
+Our compliance review flagged an outstanding settlement (INV-19694, $6,200) that must be resolved before close of business today to avoid regulatory penalties for Summit Logistics. Please action this personally.
+
+Regards,
+Vikram Malhotra",bec,fake_legal_compliance_request
+Second notice - INV-99925 overdue,"Hi Rohit,
+
+We haven't received payment for INV-99925 ($6,200). Please arrange the transfer as soon as possible to avoid late fees and account suspension with Crestline Traders.
+
+Thanks,
+Priya Mehta",bec,fake_vendor_payment_reminder
+Confidential - handle personally,"Hi Neha,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $18,500 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this immediately?
+
+Thanks,
+Priya Reddy",bec,fake_ceo_wire_request
+Time-sensitive legal matter - your action needed,"Dear Rohit,
+
+I'm assisting Meera Malhotra on a confidential legal matter regarding Nova Industries. We need a payment of $6,200 processed before close of business today to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Reminder: INV-64596 payment pending,"Dear Kavita,
+
+This is a friendly reminder that invoice INV-64596 (₹12,40,000) from Vertex Solutions is still pending payment. Kindly process this as soon as possible using the account details previously shared, and send confirmation once done.
+
+Regards,
+Meera Sharma",bec,fake_vendor_payment_reminder
+Outstanding invoice INV-80592 - payment overdue,"Hello Deepa,
+
+Invoice INV-80592 for ₹22,30,000 remains outstanding. Please process payment before close of business today to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Vikram Choudhary
+Falcon Enterprises",bec,vendor_invoice_fraud
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Vikram Nair",bec,hr_payroll_redirect
+Updated payment details for INV-88385,"Dear Deepa,
+
+Please note that our banking details have changed. For invoice INV-88385 (amount ₹12,40,000), kindly remit payment to our new account at SBI going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Falcon Enterprises",bec,vendor_invoice_fraud
+Second notice - INV-92050 overdue,"Hi Sunita,
+
+We haven't received payment for INV-92050 (₹2,75,500). Please arrange the transfer before close of business today to avoid late fees and account suspension with Crestline Traders.
+
+Thanks,
+Arjun Iyer",bec,fake_vendor_payment_reminder
+Quick request - before close of business today,"Hi Priya,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹22,30,000 to a new vendor account before close of business today. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Sunita Choudhary
+CEO, Vertex Solutions",bec,fake_ceo_wire_request
+Updated payment details for INV-87656,"Dear Rohit,
+
+Please note that our banking details have changed. For invoice INV-87656 (amount $6,200), kindly remit payment to our new account at SBI going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Falcon Enterprises",bec,vendor_invoice_fraud
+Confidential - handle personally,"Hi Rohit,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $6,200 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this before close of business today?
+
+Thanks,
+Sanjay Joshi",bec,fake_ceo_wire_request
+Payroll account change request - immediately,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm immediately so my next paycheck isn't delayed.
+
+Regards,
+Amit Iyer",bec,hr_payroll_redirect
+Time-sensitive legal matter - your action needed,"Dear Neha,
+
+I'm assisting Sanjay Mehta on a confidential legal matter regarding Falcon Enterprises. We need a payment of ₹22,30,000 processed before end of day to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Payroll account change request - before close of business today,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm before close of business today so my next paycheck isn't delayed.
+
+Regards,
+Anjali Iyer",bec,hr_payroll_redirect
+Quick request - before close of business today,"Hi Meera,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹12,40,000 to a new vendor account before close of business today. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Priya Gupta
+CEO, Summit Logistics",bec,fake_ceo_wire_request
+"Quick request - urgently, within the hour","Hi Rohit,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of $6,200 to a new vendor account urgently, within the hour. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Deepa Nair
+CEO, Orion Manufacturing",bec,fake_ceo_wire_request
+Outstanding invoice INV-19869 - payment overdue,"Hello Meera,
+
+Invoice INV-19869 for ₹22,30,000 remains outstanding. Please process payment before end of day to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Kavita Iyer
+Vertex Solutions",bec,vendor_invoice_fraud
+Time-sensitive legal matter - your action needed,"Dear Amit,
+
+I'm assisting Rohit Kapoor on a confidential legal matter regarding Summit Logistics. We need a payment of ₹9,60,000 processed urgently, within the hour to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Deepa Sharma",bec,hr_payroll_redirect
+Compliance action required - INV-50880,"Hello Vikram,
+
+Our compliance review flagged an outstanding settlement (INV-50880, ₹1,25,000) that must be resolved urgently, within the hour to avoid regulatory penalties for BlueRidge Textiles. Please action this personally.
+
+Regards,
+Arjun Verma",bec,fake_legal_compliance_request
+Reminder: INV-19637 payment pending,"Dear Rajesh,
+
+This is a friendly reminder that invoice INV-19637 (₹9,60,000) from Orion Manufacturing is still pending payment. Kindly process this before close of business today using the account details previously shared, and send confirmation once done.
+
+Regards,
+Anjali Joshi",bec,fake_vendor_payment_reminder
+Reminder: INV-82616 payment pending,"Dear Karan,
+
+This is a friendly reminder that invoice INV-82616 (₹1,25,000) from Falcon Enterprises is still pending payment. Kindly process this as soon as possible using the account details previously shared, and send confirmation once done.
+
+Regards,
+Amit Reddy",bec,fake_vendor_payment_reminder
+Confidential - handle personally,"Hi Priya,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹9,60,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this urgently, within the hour?
+
+Thanks,
+Rohit Nair",bec,fake_ceo_wire_request
+Second notice - INV-69552 overdue,"Hi Rajesh,
+
+We haven't received payment for INV-69552 (₹9,60,000). Please arrange the transfer as soon as possible to avoid late fees and account suspension with BlueRidge Textiles.
+
+Thanks,
+Vikram Choudhary",bec,fake_vendor_payment_reminder
+Reminder: INV-95139 payment pending,"Dear Anjali,
+
+This is a friendly reminder that invoice INV-95139 (₹1,25,000) from Vertex Solutions is still pending payment. Kindly process this urgently, within the hour using the account details previously shared, and send confirmation once done.
+
+Regards,
+Amit Joshi",bec,fake_vendor_payment_reminder
+Updated payment details for INV-68743,"Dear Deepa,
+
+Please note that our banking details have changed. For invoice INV-68743 (amount ₹22,30,000), kindly remit payment to our new account at SBI going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Orion Manufacturing",bec,vendor_invoice_fraud
+Reminder: INV-31229 payment pending,"Dear Meera,
+
+This is a friendly reminder that invoice INV-31229 (₹2,75,500) from Summit Logistics is still pending payment. Kindly process this urgently, within the hour using the account details previously shared, and send confirmation once done.
+
+Regards,
+Priya Joshi",bec,fake_vendor_payment_reminder
+Second notice - INV-32946 overdue,"Hi Rohit,
+
+We haven't received payment for INV-32946 (₹4,85,000). Please arrange the transfer before close of business today to avoid late fees and account suspension with Orion Manufacturing.
+
+Thanks,
+Rajesh Verma",bec,fake_vendor_payment_reminder
+Payroll account change request - as soon as possible,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm as soon as possible so my next paycheck isn't delayed.
+
+Regards,
+Priya Verma",bec,hr_payroll_redirect
+Outstanding invoice INV-98188 - payment overdue,"Hello Rajesh,
+
+Invoice INV-98188 for ₹1,25,000 remains outstanding. Please process payment urgently, within the hour to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Vikram Joshi
+BlueRidge Textiles",bec,vendor_invoice_fraud
+Compliance action required - INV-61502,"Hello Anjali,
+
+Our compliance review flagged an outstanding settlement (INV-61502, ₹9,60,000) that must be resolved urgently, within the hour to avoid regulatory penalties for Vertex Solutions. Please action this personally.
+
+Regards,
+Karan Reddy",bec,fake_legal_compliance_request
+Outstanding invoice INV-50492 - payment overdue,"Hello Rohit,
+
+Invoice INV-50492 for ₹4,85,000 remains outstanding. Please process payment before close of business today to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Karan Bansal
+Summit Logistics",bec,vendor_invoice_fraud
+Second notice - INV-40972 overdue,"Hi Vikram,
+
+We haven't received payment for INV-40972 (₹1,25,000). Please arrange the transfer immediately to avoid late fees and account suspension with Nova Industries.
+
+Thanks,
+Anjali Bansal",bec,fake_vendor_payment_reminder
+Confidential - handle personally,"Hi Vikram,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $6,200 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this as soon as possible?
+
+Thanks,
+Meera Verma",bec,fake_ceo_wire_request
+Second notice - INV-40692 overdue,"Hi Sanjay,
+
+We haven't received payment for INV-40692 (₹9,60,000). Please arrange the transfer as soon as possible to avoid late fees and account suspension with Summit Logistics.
+
+Thanks,
+Sunita Sharma",bec,fake_vendor_payment_reminder
+Confidential - handle personally,"Hi Rajesh,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $6,200 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this as soon as possible?
+
+Thanks,
+Sunita Mehta",bec,fake_ceo_wire_request
+"Quick request - urgently, within the hour","Hi Meera,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹1,25,000 to a new vendor account urgently, within the hour. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Karan Sharma
+CEO, Orion Manufacturing",bec,fake_ceo_wire_request
+Quick request - immediately,"Hi Kavita,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹12,40,000 to a new vendor account immediately. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Sanjay Joshi
+CEO, Summit Logistics",bec,fake_ceo_wire_request
+Payroll account change request - as soon as possible,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm as soon as possible so my next paycheck isn't delayed.
+
+Regards,
+Anjali Gupta",bec,hr_payroll_redirect
+Quick request - before end of day,"Hi Rohit,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹9,60,000 to a new vendor account before end of day. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Sanjay Iyer
+CEO, Vertex Solutions",bec,fake_ceo_wire_request
+Second notice - INV-68515 overdue,"Hi Sunita,
+
+We haven't received payment for INV-68515 (₹4,85,000). Please arrange the transfer as soon as possible to avoid late fees and account suspension with BlueRidge Textiles.
+
+Thanks,
+Sunita Verma",bec,fake_vendor_payment_reminder
+Confidential - handle personally,"Hi Karan,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹9,60,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this as soon as possible?
+
+Thanks,
+Karan Bansal",bec,fake_ceo_wire_request
+Time-sensitive legal matter - your action needed,"Dear Priya,
+
+I'm assisting Priya Sharma on a confidential legal matter regarding Crestline Traders. We need a payment of ₹1,25,000 processed immediately to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Compliance action required - INV-37509,"Hello Neha,
+
+Our compliance review flagged an outstanding settlement (INV-37509, $18,500) that must be resolved as soon as possible to avoid regulatory penalties for Falcon Enterprises. Please action this personally.
+
+Regards,
+Meera Verma",bec,fake_legal_compliance_request
+Confidential - handle personally,"Hi Amit,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $18,500 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this urgently, within the hour?
+
+Thanks,
+Deepa Mehta",bec,fake_ceo_wire_request
+Confidential - handle personally,"Hi Sanjay,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $6,200 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this immediately?
+
+Thanks,
+Kavita Iyer",bec,fake_ceo_wire_request
+Updated payment details for INV-51359,"Dear Vikram,
+
+Please note that our banking details have changed. For invoice INV-51359 (amount $18,500), kindly remit payment to our new account at HDFC Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Orion Manufacturing",bec,vendor_invoice_fraud
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Kavita Kapoor",bec,hr_payroll_redirect
+Compliance action required - INV-63090,"Hello Sanjay,
+
+Our compliance review flagged an outstanding settlement (INV-63090, $18,500) that must be resolved before end of day to avoid regulatory penalties for Meridian Exports. Please action this personally.
+
+Regards,
+Amit Nair",bec,fake_legal_compliance_request
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Meera Reddy",bec,hr_payroll_redirect
+Payroll account change request - before close of business today,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm before close of business today so my next paycheck isn't delayed.
+
+Regards,
+Deepa Malhotra",bec,hr_payroll_redirect
+Compliance action required - INV-58929,"Hello Neha,
+
+Our compliance review flagged an outstanding settlement (INV-58929, ₹2,75,500) that must be resolved before end of day to avoid regulatory penalties for Crestline Traders. Please action this personally.
+
+Regards,
+Priya Reddy",bec,fake_legal_compliance_request
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Arjun Verma",bec,hr_payroll_redirect
+Reminder: INV-64890 payment pending,"Dear Deepa,
+
+This is a friendly reminder that invoice INV-64890 (₹1,25,000) from Nova Industries is still pending payment. Kindly process this before end of day using the account details previously shared, and send confirmation once done.
+
+Regards,
+Priya Reddy",bec,fake_vendor_payment_reminder
+Quick request - before end of day,"Hi Sunita,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of $18,500 to a new vendor account before end of day. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Priya Nair
+CEO, Nova Industries",bec,fake_ceo_wire_request
+"Payroll account change request - urgently, within the hour","Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm urgently, within the hour so my next paycheck isn't delayed.
+
+Regards,
+Priya Bansal",bec,hr_payroll_redirect
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Rohit Verma",bec,hr_payroll_redirect
+Outstanding invoice INV-66450 - payment overdue,"Hello Rajesh,
+
+Invoice INV-66450 for ₹1,25,000 remains outstanding. Please process payment before end of day to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Neha Sharma
+Crestline Traders",bec,vendor_invoice_fraud
+Confidential - handle personally,"Hi Arjun,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹4,85,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this before close of business today?
+
+Thanks,
+Neha Joshi",bec,fake_ceo_wire_request
+Time-sensitive legal matter - your action needed,"Dear Priya,
+
+I'm assisting Vikram Gupta on a confidential legal matter regarding Meridian Exports. We need a payment of $6,200 processed urgently, within the hour to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Updated payment details for INV-33086,"Dear Arjun,
+
+Please note that our banking details have changed. For invoice INV-33086 (amount $6,200), kindly remit payment to our new account at ICICI Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Falcon Enterprises",bec,vendor_invoice_fraud
+Quick request - before close of business today,"Hi Amit,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹9,60,000 to a new vendor account before close of business today. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Vikram Gupta
+CEO, Orion Manufacturing",bec,fake_ceo_wire_request
+Time-sensitive legal matter - your action needed,"Dear Priya,
+
+I'm assisting Neha Joshi on a confidential legal matter regarding BlueRidge Textiles. We need a payment of ₹1,25,000 processed immediately to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Second notice - INV-82135 overdue,"Hi Neha,
+
+We haven't received payment for INV-82135 (₹4,85,000). Please arrange the transfer before end of day to avoid late fees and account suspension with BlueRidge Textiles.
+
+Thanks,
+Deepa Mehta",bec,fake_vendor_payment_reminder
+Compliance action required - INV-77425,"Hello Amit,
+
+Our compliance review flagged an outstanding settlement (INV-77425, ₹9,60,000) that must be resolved immediately to avoid regulatory penalties for Crestline Traders. Please action this personally.
+
+Regards,
+Neha Bansal",bec,fake_legal_compliance_request
+Updated payment details for INV-73464,"Dear Deepa,
+
+Please note that our banking details have changed. For invoice INV-73464 (amount $18,500), kindly remit payment to our new account at ICICI Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Summit Logistics",bec,vendor_invoice_fraud
+Time-sensitive legal matter - your action needed,"Dear Sunita,
+
+I'm assisting Kavita Reddy on a confidential legal matter regarding Vertex Solutions. We need a payment of ₹4,85,000 processed before end of day to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Time-sensitive legal matter - your action needed,"Dear Karan,
+
+I'm assisting Kavita Mehta on a confidential legal matter regarding Orion Manufacturing. We need a payment of $6,200 processed before end of day to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Outstanding invoice INV-39817 - payment overdue,"Hello Meera,
+
+Invoice INV-39817 for ₹9,60,000 remains outstanding. Please process payment immediately to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Sanjay Sharma
+BlueRidge Textiles",bec,vendor_invoice_fraud
+Outstanding invoice INV-49251 - payment overdue,"Hello Arjun,
+
+Invoice INV-49251 for ₹2,75,500 remains outstanding. Please process payment immediately to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Priya Malhotra
+BlueRidge Textiles",bec,vendor_invoice_fraud
+Updated payment details for INV-74789,"Dear Anjali,
+
+Please note that our banking details have changed. For invoice INV-74789 (amount ₹4,85,000), kindly remit payment to our new account at Axis Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Meridian Exports",bec,vendor_invoice_fraud
+Reminder: INV-49315 payment pending,"Dear Rohit,
+
+This is a friendly reminder that invoice INV-49315 (₹9,60,000) from BlueRidge Textiles is still pending payment. Kindly process this before end of day using the account details previously shared, and send confirmation once done.
+
+Regards,
+Neha Bansal",bec,fake_vendor_payment_reminder
+Confidential - handle personally,"Hi Rajesh,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹22,30,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this before close of business today?
+
+Thanks,
+Neha Gupta",bec,fake_ceo_wire_request
+Quick request - before end of day,"Hi Arjun,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹1,25,000 to a new vendor account before end of day. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Vikram Mehta
+CEO, Vertex Solutions",bec,fake_ceo_wire_request
+Second notice - INV-90698 overdue,"Hi Vikram,
+
+We haven't received payment for INV-90698 (₹12,40,000). Please arrange the transfer as soon as possible to avoid late fees and account suspension with Crestline Traders.
+
+Thanks,
+Sanjay Bansal",bec,fake_vendor_payment_reminder
+Reminder: INV-26864 payment pending,"Dear Sanjay,
+
+This is a friendly reminder that invoice INV-26864 (₹12,40,000) from Crestline Traders is still pending payment. Kindly process this immediately using the account details previously shared, and send confirmation once done.
+
+Regards,
+Kavita Joshi",bec,fake_vendor_payment_reminder
+Quick request - as soon as possible,"Hi Vikram,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹4,85,000 to a new vendor account as soon as possible. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Sunita Sharma
+CEO, Nova Industries",bec,fake_ceo_wire_request
+Reminder: INV-68188 payment pending,"Dear Rajesh,
+
+This is a friendly reminder that invoice INV-68188 (₹1,25,000) from Falcon Enterprises is still pending payment. Kindly process this immediately using the account details previously shared, and send confirmation once done.
+
+Regards,
+Anjali Gupta",bec,fake_vendor_payment_reminder
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Neha Choudhary",bec,hr_payroll_redirect
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Meera Choudhary",bec,hr_payroll_redirect
+Outstanding invoice INV-17936 - payment overdue,"Hello Meera,
+
+Invoice INV-17936 for ₹1,25,000 remains outstanding. Please process payment before close of business today to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Neha Verma
+Vertex Solutions",bec,vendor_invoice_fraud
+Compliance action required - INV-74178,"Hello Kavita,
+
+Our compliance review flagged an outstanding settlement (INV-74178, ₹2,75,500) that must be resolved urgently, within the hour to avoid regulatory penalties for Summit Logistics. Please action this personally.
+
+Regards,
+Rohit Joshi",bec,fake_legal_compliance_request
+Updated payment details for INV-51224,"Dear Meera,
+
+Please note that our banking details have changed. For invoice INV-51224 (amount ₹12,40,000), kindly remit payment to our new account at SBI going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Nova Industries",bec,vendor_invoice_fraud
+Quick request - before end of day,"Hi Vikram,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹22,30,000 to a new vendor account before end of day. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Karan Mehta
+CEO, Crestline Traders",bec,fake_ceo_wire_request
+Payroll account change request - as soon as possible,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm as soon as possible so my next paycheck isn't delayed.
+
+Regards,
+Rohit Gupta",bec,hr_payroll_redirect
+Quick request - before end of day,"Hi Deepa,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹22,30,000 to a new vendor account before end of day. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Anjali Choudhary
+CEO, Falcon Enterprises",bec,fake_ceo_wire_request
+Confidential - handle personally,"Hi Rohit,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $18,500 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this as soon as possible?
+
+Thanks,
+Deepa Sharma",bec,fake_ceo_wire_request
+"Quick request - urgently, within the hour","Hi Karan,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹4,85,000 to a new vendor account urgently, within the hour. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Sanjay Sharma
+CEO, Vertex Solutions",bec,fake_ceo_wire_request
+Reminder: INV-25907 payment pending,"Dear Deepa,
+
+This is a friendly reminder that invoice INV-25907 ($18,500) from Summit Logistics is still pending payment. Kindly process this before end of day using the account details previously shared, and send confirmation once done.
+
+Regards,
+Deepa Bansal",bec,fake_vendor_payment_reminder
+Reminder: INV-32349 payment pending,"Dear Anjali,
+
+This is a friendly reminder that invoice INV-32349 (₹22,30,000) from Nova Industries is still pending payment. Kindly process this as soon as possible using the account details previously shared, and send confirmation once done.
+
+Regards,
+Sunita Bansal",bec,fake_vendor_payment_reminder
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Rohit Kapoor",bec,hr_payroll_redirect
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Karan Malhotra",bec,hr_payroll_redirect
+Quick request - before close of business today,"Hi Priya,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹2,75,500 to a new vendor account before close of business today. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Deepa Mehta
+CEO, BlueRidge Textiles",bec,fake_ceo_wire_request
+Compliance action required - INV-88231,"Hello Karan,
+
+Our compliance review flagged an outstanding settlement (INV-88231, ₹9,60,000) that must be resolved as soon as possible to avoid regulatory penalties for Vertex Solutions. Please action this personally.
+
+Regards,
+Rajesh Choudhary",bec,fake_legal_compliance_request
+Payroll account change request - before end of day,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm before end of day so my next paycheck isn't delayed.
+
+Regards,
+Sanjay Nair",bec,hr_payroll_redirect
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Priya Gupta",bec,hr_payroll_redirect
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Deepa Verma",bec,hr_payroll_redirect
+Payroll account change request - as soon as possible,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm as soon as possible so my next paycheck isn't delayed.
+
+Regards,
+Vikram Verma",bec,hr_payroll_redirect
+Updated payment details for INV-19710,"Dear Meera,
+
+Please note that our banking details have changed. For invoice INV-19710 (amount ₹22,30,000), kindly remit payment to our new account at SBI going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, BlueRidge Textiles",bec,vendor_invoice_fraud
+Updated payment details for INV-96706,"Dear Karan,
+
+Please note that our banking details have changed. For invoice INV-96706 (amount $6,200), kindly remit payment to our new account at Axis Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Nova Industries",bec,vendor_invoice_fraud
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Sunita Nair",bec,hr_payroll_redirect
+"Payroll account change request - urgently, within the hour","Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm urgently, within the hour so my next paycheck isn't delayed.
+
+Regards,
+Sunita Choudhary",bec,hr_payroll_redirect
+Second notice - INV-54185 overdue,"Hi Amit,
+
+We haven't received payment for INV-54185 (₹4,85,000). Please arrange the transfer urgently, within the hour to avoid late fees and account suspension with Crestline Traders.
+
+Thanks,
+Deepa Mehta",bec,fake_vendor_payment_reminder
+Outstanding invoice INV-44737 - payment overdue,"Hello Arjun,
+
+Invoice INV-44737 for ₹22,30,000 remains outstanding. Please process payment urgently, within the hour to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Meera Malhotra
+Summit Logistics",bec,vendor_invoice_fraud
+"Quick request - urgently, within the hour","Hi Rajesh,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹12,40,000 to a new vendor account urgently, within the hour. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Priya Bansal
+CEO, Nova Industries",bec,fake_ceo_wire_request
+Confidential - handle personally,"Hi Kavita,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹9,60,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this before end of day?
+
+Thanks,
+Rohit Verma",bec,fake_ceo_wire_request
+Time-sensitive legal matter - your action needed,"Dear Sanjay,
+
+I'm assisting Arjun Sharma on a confidential legal matter regarding Nova Industries. We need a payment of ₹9,60,000 processed urgently, within the hour to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Reminder: INV-15930 payment pending,"Dear Amit,
+
+This is a friendly reminder that invoice INV-15930 (₹1,25,000) from Vertex Solutions is still pending payment. Kindly process this before close of business today using the account details previously shared, and send confirmation once done.
+
+Regards,
+Vikram Bansal",bec,fake_vendor_payment_reminder
+Second notice - INV-98276 overdue,"Hi Deepa,
+
+We haven't received payment for INV-98276 (₹22,30,000). Please arrange the transfer as soon as possible to avoid late fees and account suspension with Nova Industries.
+
+Thanks,
+Sunita Sharma",bec,fake_vendor_payment_reminder
+Outstanding invoice INV-18992 - payment overdue,"Hello Rajesh,
+
+Invoice INV-18992 for $18,500 remains outstanding. Please process payment as soon as possible to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Rajesh Nair
+Orion Manufacturing",bec,vendor_invoice_fraud
+Reminder: INV-75873 payment pending,"Dear Vikram,
+
+This is a friendly reminder that invoice INV-75873 (₹12,40,000) from Crestline Traders is still pending payment. Kindly process this before end of day using the account details previously shared, and send confirmation once done.
+
+Regards,
+Amit Malhotra",bec,fake_vendor_payment_reminder
+Compliance action required - INV-70505,"Hello Priya,
+
+Our compliance review flagged an outstanding settlement (INV-70505, ₹4,85,000) that must be resolved before end of day to avoid regulatory penalties for Summit Logistics. Please action this personally.
+
+Regards,
+Anjali Reddy",bec,fake_legal_compliance_request
+Reminder: INV-75911 payment pending,"Dear Neha,
+
+This is a friendly reminder that invoice INV-75911 ($6,200) from Summit Logistics is still pending payment. Kindly process this immediately using the account details previously shared, and send confirmation once done.
+
+Regards,
+Amit Joshi",bec,fake_vendor_payment_reminder
+Quick request - before end of day,"Hi Priya,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of $18,500 to a new vendor account before end of day. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Sanjay Reddy
+CEO, Crestline Traders",bec,fake_ceo_wire_request
+Updated payment details for INV-69049,"Dear Priya,
+
+Please note that our banking details have changed. For invoice INV-69049 (amount $6,200), kindly remit payment to our new account at Kotak Mahindra Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Orion Manufacturing",bec,vendor_invoice_fraud
+Reminder: INV-88966 payment pending,"Dear Arjun,
+
+This is a friendly reminder that invoice INV-88966 ($18,500) from Vertex Solutions is still pending payment. Kindly process this as soon as possible using the account details previously shared, and send confirmation once done.
+
+Regards,
+Neha Nair",bec,fake_vendor_payment_reminder
+Time-sensitive legal matter - your action needed,"Dear Kavita,
+
+I'm assisting Amit Verma on a confidential legal matter regarding Summit Logistics. We need a payment of ₹9,60,000 processed urgently, within the hour to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Updated payment details for INV-69510,"Dear Kavita,
+
+Please note that our banking details have changed. For invoice INV-69510 (amount ₹9,60,000), kindly remit payment to our new account at Axis Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Orion Manufacturing",bec,vendor_invoice_fraud
+Second notice - INV-36485 overdue,"Hi Neha,
+
+We haven't received payment for INV-36485 ($18,500). Please arrange the transfer as soon as possible to avoid late fees and account suspension with Crestline Traders.
+
+Thanks,
+Kavita Malhotra",bec,fake_vendor_payment_reminder
+Time-sensitive legal matter - your action needed,"Dear Deepa,
+
+I'm assisting Priya Bansal on a confidential legal matter regarding Falcon Enterprises. We need a payment of $18,500 processed before end of day to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Arjun Iyer",bec,hr_payroll_redirect
+Second notice - INV-24764 overdue,"Hi Sanjay,
+
+We haven't received payment for INV-24764 ($18,500). Please arrange the transfer urgently, within the hour to avoid late fees and account suspension with Falcon Enterprises.
+
+Thanks,
+Kavita Gupta",bec,fake_vendor_payment_reminder
+Second notice - INV-23133 overdue,"Hi Sunita,
+
+We haven't received payment for INV-23133 (₹4,85,000). Please arrange the transfer before close of business today to avoid late fees and account suspension with Orion Manufacturing.
+
+Thanks,
+Sunita Sharma",bec,fake_vendor_payment_reminder
+Outstanding invoice INV-12011 - payment overdue,"Hello Anjali,
+
+Invoice INV-12011 for ₹22,30,000 remains outstanding. Please process payment before end of day to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Neha Verma
+Falcon Enterprises",bec,vendor_invoice_fraud
+Updated payment details for INV-21164,"Dear Rohit,
+
+Please note that our banking details have changed. For invoice INV-21164 (amount ₹9,60,000), kindly remit payment to our new account at ICICI Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Summit Logistics",bec,vendor_invoice_fraud
+Time-sensitive legal matter - your action needed,"Dear Vikram,
+
+I'm assisting Meera Bansal on a confidential legal matter regarding Summit Logistics. We need a payment of ₹4,85,000 processed before close of business today to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Quick request - immediately,"Hi Meera,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of $18,500 to a new vendor account immediately. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Karan Iyer
+CEO, Orion Manufacturing",bec,fake_ceo_wire_request
+Quick request - immediately,"Hi Anjali,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹4,85,000 to a new vendor account immediately. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Kavita Joshi
+CEO, Crestline Traders",bec,fake_ceo_wire_request
+Confidential - handle personally,"Hi Rohit,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹9,60,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this as soon as possible?
+
+Thanks,
+Arjun Malhotra",bec,fake_ceo_wire_request
+Second notice - INV-64505 overdue,"Hi Sunita,
+
+We haven't received payment for INV-64505 (₹1,25,000). Please arrange the transfer as soon as possible to avoid late fees and account suspension with Summit Logistics.
+
+Thanks,
+Amit Mehta",bec,fake_vendor_payment_reminder
+Payroll account change request - as soon as possible,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm as soon as possible so my next paycheck isn't delayed.
+
+Regards,
+Amit Verma",bec,hr_payroll_redirect
+Quick request - before close of business today,"Hi Sanjay,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of $18,500 to a new vendor account before close of business today. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Amit Iyer
+CEO, Meridian Exports",bec,fake_ceo_wire_request
+Outstanding invoice INV-49608 - payment overdue,"Hello Anjali,
+
+Invoice INV-49608 for ₹22,30,000 remains outstanding. Please process payment before close of business today to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Sanjay Nair
+Orion Manufacturing",bec,vendor_invoice_fraud
+Second notice - INV-47700 overdue,"Hi Arjun,
+
+We haven't received payment for INV-47700 (₹4,85,000). Please arrange the transfer immediately to avoid late fees and account suspension with Summit Logistics.
+
+Thanks,
+Arjun Nair",bec,fake_vendor_payment_reminder
+Reminder: INV-83619 payment pending,"Dear Sunita,
+
+This is a friendly reminder that invoice INV-83619 ($6,200) from Summit Logistics is still pending payment. Kindly process this immediately using the account details previously shared, and send confirmation once done.
+
+Regards,
+Priya Sharma",bec,fake_vendor_payment_reminder
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Vikram Mehta",bec,hr_payroll_redirect
+Outstanding invoice INV-82384 - payment overdue,"Hello Karan,
+
+Invoice INV-82384 for ₹4,85,000 remains outstanding. Please process payment before close of business today to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Sunita Bansal
+Summit Logistics",bec,vendor_invoice_fraud
+Time-sensitive legal matter - your action needed,"Dear Anjali,
+
+I'm assisting Karan Choudhary on a confidential legal matter regarding Meridian Exports. We need a payment of ₹4,85,000 processed urgently, within the hour to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Reminder: INV-44803 payment pending,"Dear Vikram,
+
+This is a friendly reminder that invoice INV-44803 (₹22,30,000) from Nova Industries is still pending payment. Kindly process this as soon as possible using the account details previously shared, and send confirmation once done.
+
+Regards,
+Karan Bansal",bec,fake_vendor_payment_reminder
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Sanjay Reddy",bec,hr_payroll_redirect
+Outstanding invoice INV-73335 - payment overdue,"Hello Deepa,
+
+Invoice INV-73335 for $6,200 remains outstanding. Please process payment immediately to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Vikram Mehta
+Crestline Traders",bec,vendor_invoice_fraud
+Updated payment details for INV-56112,"Dear Neha,
+
+Please note that our banking details have changed. For invoice INV-56112 (amount ₹1,25,000), kindly remit payment to our new account at SBI going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Vertex Solutions",bec,vendor_invoice_fraud
+Updated payment details for INV-81376,"Dear Rohit,
+
+Please note that our banking details have changed. For invoice INV-81376 (amount ₹12,40,000), kindly remit payment to our new account at SBI going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Orion Manufacturing",bec,vendor_invoice_fraud
+Reminder: INV-60351 payment pending,"Dear Kavita,
+
+This is a friendly reminder that invoice INV-60351 (₹9,60,000) from BlueRidge Textiles is still pending payment. Kindly process this as soon as possible using the account details previously shared, and send confirmation once done.
+
+Regards,
+Sunita Gupta",bec,fake_vendor_payment_reminder
+Payroll account change request - immediately,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm immediately so my next paycheck isn't delayed.
+
+Regards,
+Kavita Nair",bec,hr_payroll_redirect
+"Payroll account change request - urgently, within the hour","Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm urgently, within the hour so my next paycheck isn't delayed.
+
+Regards,
+Rajesh Iyer",bec,hr_payroll_redirect
+Updated payment details for INV-16734,"Dear Vikram,
+
+Please note that our banking details have changed. For invoice INV-16734 (amount ₹2,75,500), kindly remit payment to our new account at Axis Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Falcon Enterprises",bec,vendor_invoice_fraud
+Quick request - before end of day,"Hi Anjali,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹1,25,000 to a new vendor account before end of day. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Anjali Sharma
+CEO, BlueRidge Textiles",bec,fake_ceo_wire_request
+Time-sensitive legal matter - your action needed,"Dear Vikram,
+
+I'm assisting Sanjay Choudhary on a confidential legal matter regarding Meridian Exports. We need a payment of ₹2,75,500 processed urgently, within the hour to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Updated payment details for INV-97026,"Dear Priya,
+
+Please note that our banking details have changed. For invoice INV-97026 (amount ₹9,60,000), kindly remit payment to our new account at ICICI Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Meridian Exports",bec,vendor_invoice_fraud
+Quick request - before end of day,"Hi Rohit,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹2,75,500 to a new vendor account before end of day. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Vikram Bansal
+CEO, BlueRidge Textiles",bec,fake_ceo_wire_request
+Second notice - INV-10395 overdue,"Hi Rohit,
+
+We haven't received payment for INV-10395 (₹9,60,000). Please arrange the transfer before end of day to avoid late fees and account suspension with Nova Industries.
+
+Thanks,
+Karan Iyer",bec,fake_vendor_payment_reminder
+Outstanding invoice INV-20350 - payment overdue,"Hello Sunita,
+
+Invoice INV-20350 for ₹2,75,500 remains outstanding. Please process payment as soon as possible to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Sanjay Kapoor
+Summit Logistics",bec,vendor_invoice_fraud
+Quick request - before end of day,"Hi Rohit,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹22,30,000 to a new vendor account before end of day. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Rohit Nair
+CEO, Falcon Enterprises",bec,fake_ceo_wire_request
+Outstanding invoice INV-97881 - payment overdue,"Hello Sunita,
+
+Invoice INV-97881 for ₹1,25,000 remains outstanding. Please process payment as soon as possible to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Sanjay Gupta
+Meridian Exports",bec,vendor_invoice_fraud
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Kavita Joshi",bec,hr_payroll_redirect
+Compliance action required - INV-90492,"Hello Amit,
+
+Our compliance review flagged an outstanding settlement (INV-90492, ₹4,85,000) that must be resolved before end of day to avoid regulatory penalties for Meridian Exports. Please action this personally.
+
+Regards,
+Rohit Malhotra",bec,fake_legal_compliance_request
+Compliance action required - INV-85066,"Hello Vikram,
+
+Our compliance review flagged an outstanding settlement (INV-85066, ₹12,40,000) that must be resolved immediately to avoid regulatory penalties for Falcon Enterprises. Please action this personally.
+
+Regards,
+Amit Mehta",bec,fake_legal_compliance_request
+Quick request - before close of business today,"Hi Sunita,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of $6,200 to a new vendor account before close of business today. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Meera Kapoor
+CEO, Nova Industries",bec,fake_ceo_wire_request
+Updated payment details for INV-11607,"Dear Rajesh,
+
+Please note that our banking details have changed. For invoice INV-11607 (amount ₹12,40,000), kindly remit payment to our new account at SBI going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Summit Logistics",bec,vendor_invoice_fraud
+Reminder: INV-24089 payment pending,"Dear Vikram,
+
+This is a friendly reminder that invoice INV-24089 (₹4,85,000) from Falcon Enterprises is still pending payment. Kindly process this before close of business today using the account details previously shared, and send confirmation once done.
+
+Regards,
+Kavita Choudhary",bec,fake_vendor_payment_reminder
+Second notice - INV-99486 overdue,"Hi Neha,
+
+We haven't received payment for INV-99486 (₹12,40,000). Please arrange the transfer as soon as possible to avoid late fees and account suspension with Meridian Exports.
+
+Thanks,
+Arjun Mehta",bec,fake_vendor_payment_reminder
+Second notice - INV-90560 overdue,"Hi Deepa,
+
+We haven't received payment for INV-90560 (₹1,25,000). Please arrange the transfer before end of day to avoid late fees and account suspension with BlueRidge Textiles.
+
+Thanks,
+Karan Iyer",bec,fake_vendor_payment_reminder
+Compliance action required - INV-53874,"Hello Arjun,
+
+Our compliance review flagged an outstanding settlement (INV-53874, ₹22,30,000) that must be resolved before close of business today to avoid regulatory penalties for Meridian Exports. Please action this personally.
+
+Regards,
+Neha Choudhary",bec,fake_legal_compliance_request
+Payroll account change request - immediately,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm immediately so my next paycheck isn't delayed.
+
+Regards,
+Amit Verma",bec,hr_payroll_redirect
+Reminder: INV-94136 payment pending,"Dear Karan,
+
+This is a friendly reminder that invoice INV-94136 (₹9,60,000) from Nova Industries is still pending payment. Kindly process this urgently, within the hour using the account details previously shared, and send confirmation once done.
+
+Regards,
+Anjali Kapoor",bec,fake_vendor_payment_reminder
+Quick request - before close of business today,"Hi Meera,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of $6,200 to a new vendor account before close of business today. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Rajesh Verma
+CEO, Orion Manufacturing",bec,fake_ceo_wire_request
+Outstanding invoice INV-25220 - payment overdue,"Hello Priya,
+
+Invoice INV-25220 for ₹22,30,000 remains outstanding. Please process payment immediately to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Amit Sharma
+Nova Industries",bec,vendor_invoice_fraud
+Payroll account change request - before end of day,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm before end of day so my next paycheck isn't delayed.
+
+Regards,
+Karan Nair",bec,hr_payroll_redirect
+Updated payment details for INV-48829,"Dear Deepa,
+
+Please note that our banking details have changed. For invoice INV-48829 (amount $18,500), kindly remit payment to our new account at HDFC Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Crestline Traders",bec,vendor_invoice_fraud
+Updated payment details for INV-69048,"Dear Amit,
+
+Please note that our banking details have changed. For invoice INV-69048 (amount $6,200), kindly remit payment to our new account at HDFC Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Summit Logistics",bec,vendor_invoice_fraud
+Time-sensitive legal matter - your action needed,"Dear Deepa,
+
+I'm assisting Rohit Bansal on a confidential legal matter regarding Falcon Enterprises. We need a payment of ₹2,75,500 processed before end of day to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Quick request - as soon as possible,"Hi Meera,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹1,25,000 to a new vendor account as soon as possible. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Rohit Iyer
+CEO, Orion Manufacturing",bec,fake_ceo_wire_request
+Compliance action required - INV-77632,"Hello Rajesh,
+
+Our compliance review flagged an outstanding settlement (INV-77632, $18,500) that must be resolved before end of day to avoid regulatory penalties for BlueRidge Textiles. Please action this personally.
+
+Regards,
+Meera Nair",bec,fake_legal_compliance_request
+Outstanding invoice INV-71993 - payment overdue,"Hello Anjali,
+
+Invoice INV-71993 for ₹1,25,000 remains outstanding. Please process payment before close of business today to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Arjun Reddy
+Meridian Exports",bec,vendor_invoice_fraud
+Confidential - handle personally,"Hi Sanjay,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹9,60,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this immediately?
+
+Thanks,
+Amit Kapoor",bec,fake_ceo_wire_request
+Outstanding invoice INV-89482 - payment overdue,"Hello Meera,
+
+Invoice INV-89482 for ₹4,85,000 remains outstanding. Please process payment before close of business today to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Rohit Kapoor
+Crestline Traders",bec,vendor_invoice_fraud
+Compliance action required - INV-37082,"Hello Deepa,
+
+Our compliance review flagged an outstanding settlement (INV-37082, ₹2,75,500) that must be resolved before end of day to avoid regulatory penalties for Meridian Exports. Please action this personally.
+
+Regards,
+Neha Bansal",bec,fake_legal_compliance_request
+Compliance action required - INV-89064,"Hello Meera,
+
+Our compliance review flagged an outstanding settlement (INV-89064, ₹1,25,000) that must be resolved before end of day to avoid regulatory penalties for Summit Logistics. Please action this personally.
+
+Regards,
+Meera Malhotra",bec,fake_legal_compliance_request
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Rajesh Gupta",bec,hr_payroll_redirect
+Second notice - INV-28777 overdue,"Hi Neha,
+
+We haven't received payment for INV-28777 (₹9,60,000). Please arrange the transfer as soon as possible to avoid late fees and account suspension with Vertex Solutions.
+
+Thanks,
+Anjali Choudhary",bec,fake_vendor_payment_reminder
+Second notice - INV-35200 overdue,"Hi Kavita,
+
+We haven't received payment for INV-35200 (₹22,30,000). Please arrange the transfer before end of day to avoid late fees and account suspension with Vertex Solutions.
+
+Thanks,
+Sanjay Nair",bec,fake_vendor_payment_reminder
+Compliance action required - INV-68429,"Hello Priya,
+
+Our compliance review flagged an outstanding settlement (INV-68429, $18,500) that must be resolved urgently, within the hour to avoid regulatory penalties for Crestline Traders. Please action this personally.
+
+Regards,
+Rajesh Verma",bec,fake_legal_compliance_request
+Time-sensitive legal matter - your action needed,"Dear Neha,
+
+I'm assisting Arjun Mehta on a confidential legal matter regarding Orion Manufacturing. We need a payment of ₹9,60,000 processed immediately to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Confidential - handle personally,"Hi Neha,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $18,500 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this before end of day?
+
+Thanks,
+Vikram Kapoor",bec,fake_ceo_wire_request
+Confidential - handle personally,"Hi Anjali,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹12,40,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this as soon as possible?
+
+Thanks,
+Arjun Nair",bec,fake_ceo_wire_request
+Confidential - handle personally,"Hi Neha,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹1,25,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this before close of business today?
+
+Thanks,
+Sunita Malhotra",bec,fake_ceo_wire_request
+Compliance action required - INV-49932,"Hello Anjali,
+
+Our compliance review flagged an outstanding settlement (INV-49932, ₹2,75,500) that must be resolved immediately to avoid regulatory penalties for Falcon Enterprises. Please action this personally.
+
+Regards,
+Anjali Reddy",bec,fake_legal_compliance_request
+Payroll account change request - before end of day,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm before end of day so my next paycheck isn't delayed.
+
+Regards,
+Vikram Bansal",bec,hr_payroll_redirect
+Payroll account change request - before end of day,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm before end of day so my next paycheck isn't delayed.
+
+Regards,
+Amit Bansal",bec,hr_payroll_redirect
+Confidential - handle personally,"Hi Deepa,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹12,40,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this immediately?
+
+Thanks,
+Sanjay Sharma",bec,fake_ceo_wire_request
+Second notice - INV-90599 overdue,"Hi Vikram,
+
+We haven't received payment for INV-90599 ($6,200). Please arrange the transfer immediately to avoid late fees and account suspension with BlueRidge Textiles.
+
+Thanks,
+Sunita Bansal",bec,fake_vendor_payment_reminder
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Arjun Kapoor",bec,hr_payroll_redirect
+Time-sensitive legal matter - your action needed,"Dear Rajesh,
+
+I'm assisting Sanjay Bansal on a confidential legal matter regarding Meridian Exports. We need a payment of ₹12,40,000 processed as soon as possible to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Compliance action required - INV-88246,"Hello Sunita,
+
+Our compliance review flagged an outstanding settlement (INV-88246, ₹1,25,000) that must be resolved before close of business today to avoid regulatory penalties for Crestline Traders. Please action this personally.
+
+Regards,
+Kavita Verma",bec,fake_legal_compliance_request
+Second notice - INV-17292 overdue,"Hi Priya,
+
+We haven't received payment for INV-17292 (₹22,30,000). Please arrange the transfer before close of business today to avoid late fees and account suspension with Falcon Enterprises.
+
+Thanks,
+Rohit Reddy",bec,fake_vendor_payment_reminder
+Reminder: INV-53652 payment pending,"Dear Arjun,
+
+This is a friendly reminder that invoice INV-53652 (₹2,75,500) from Nova Industries is still pending payment. Kindly process this before close of business today using the account details previously shared, and send confirmation once done.
+
+Regards,
+Sanjay Sharma",bec,fake_vendor_payment_reminder
+Quick request - as soon as possible,"Hi Kavita,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹12,40,000 to a new vendor account as soon as possible. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Neha Verma
+CEO, Nova Industries",bec,fake_ceo_wire_request
+Confidential - handle personally,"Hi Deepa,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹4,85,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this as soon as possible?
+
+Thanks,
+Amit Mehta",bec,fake_ceo_wire_request
+Confidential - handle personally,"Hi Amit,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $18,500 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this before close of business today?
+
+Thanks,
+Amit Reddy",bec,fake_ceo_wire_request
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Rohit Choudhary",bec,hr_payroll_redirect
+Confidential - handle personally,"Hi Arjun,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $6,200 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this immediately?
+
+Thanks,
+Karan Choudhary",bec,fake_ceo_wire_request
+Outstanding invoice INV-74139 - payment overdue,"Hello Arjun,
+
+Invoice INV-74139 for ₹12,40,000 remains outstanding. Please process payment as soon as possible to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Anjali Bansal
+Summit Logistics",bec,vendor_invoice_fraud
+Compliance action required - INV-15856,"Hello Deepa,
+
+Our compliance review flagged an outstanding settlement (INV-15856, ₹9,60,000) that must be resolved immediately to avoid regulatory penalties for Vertex Solutions. Please action this personally.
+
+Regards,
+Deepa Mehta",bec,fake_legal_compliance_request
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Meera Sharma",bec,hr_payroll_redirect
+Time-sensitive legal matter - your action needed,"Dear Rohit,
+
+I'm assisting Anjali Malhotra on a confidential legal matter regarding Meridian Exports. We need a payment of ₹9,60,000 processed immediately to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Confidential - handle personally,"Hi Sunita,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $18,500 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this before close of business today?
+
+Thanks,
+Vikram Sharma",bec,fake_ceo_wire_request
+Confidential - handle personally,"Hi Anjali,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹2,75,500 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this immediately?
+
+Thanks,
+Deepa Gupta",bec,fake_ceo_wire_request
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Kavita Malhotra",bec,hr_payroll_redirect
+Updated payment details for INV-64165,"Dear Neha,
+
+Please note that our banking details have changed. For invoice INV-64165 (amount ₹22,30,000), kindly remit payment to our new account at Kotak Mahindra Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Nova Industries",bec,vendor_invoice_fraud
+"Quick request - urgently, within the hour","Hi Sunita,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹12,40,000 to a new vendor account urgently, within the hour. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Sanjay Iyer
+CEO, Summit Logistics",bec,fake_ceo_wire_request
+Second notice - INV-55371 overdue,"Hi Arjun,
+
+We haven't received payment for INV-55371 (₹22,30,000). Please arrange the transfer before end of day to avoid late fees and account suspension with Orion Manufacturing.
+
+Thanks,
+Sanjay Kapoor",bec,fake_vendor_payment_reminder
+Second notice - INV-79316 overdue,"Hi Amit,
+
+We haven't received payment for INV-79316 ($6,200). Please arrange the transfer before end of day to avoid late fees and account suspension with BlueRidge Textiles.
+
+Thanks,
+Rohit Nair",bec,fake_vendor_payment_reminder
+Payroll account change request - before close of business today,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm before close of business today so my next paycheck isn't delayed.
+
+Regards,
+Meera Mehta",bec,hr_payroll_redirect
+Confidential - handle personally,"Hi Sunita,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $6,200 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this before end of day?
+
+Thanks,
+Deepa Bansal",bec,fake_ceo_wire_request
+Time-sensitive legal matter - your action needed,"Dear Sunita,
+
+I'm assisting Anjali Kapoor on a confidential legal matter regarding Vertex Solutions. We need a payment of ₹2,75,500 processed as soon as possible to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Second notice - INV-83242 overdue,"Hi Amit,
+
+We haven't received payment for INV-83242 (₹4,85,000). Please arrange the transfer before close of business today to avoid late fees and account suspension with Falcon Enterprises.
+
+Thanks,
+Sanjay Kapoor",bec,fake_vendor_payment_reminder
+"Quick request - urgently, within the hour","Hi Amit,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of $18,500 to a new vendor account urgently, within the hour. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Kavita Kapoor
+CEO, Crestline Traders",bec,fake_ceo_wire_request
+Payroll account change request - immediately,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm immediately so my next paycheck isn't delayed.
+
+Regards,
+Rohit Malhotra",bec,hr_payroll_redirect
+Reminder: INV-16377 payment pending,"Dear Arjun,
+
+This is a friendly reminder that invoice INV-16377 (₹1,25,000) from Orion Manufacturing is still pending payment. Kindly process this immediately using the account details previously shared, and send confirmation once done.
+
+Regards,
+Sanjay Mehta",bec,fake_vendor_payment_reminder
+Updated payment details for INV-96846,"Dear Meera,
+
+Please note that our banking details have changed. For invoice INV-96846 (amount ₹9,60,000), kindly remit payment to our new account at SBI going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Meridian Exports",bec,vendor_invoice_fraud
+Second notice - INV-18094 overdue,"Hi Sanjay,
+
+We haven't received payment for INV-18094 (₹12,40,000). Please arrange the transfer as soon as possible to avoid late fees and account suspension with BlueRidge Textiles.
+
+Thanks,
+Deepa Nair",bec,fake_vendor_payment_reminder
+Time-sensitive legal matter - your action needed,"Dear Amit,
+
+I'm assisting Deepa Joshi on a confidential legal matter regarding Falcon Enterprises. We need a payment of ₹4,85,000 processed immediately to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+"Quick request - urgently, within the hour","Hi Amit,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of $18,500 to a new vendor account urgently, within the hour. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Vikram Iyer
+CEO, Orion Manufacturing",bec,fake_ceo_wire_request
+Reminder: INV-21506 payment pending,"Dear Priya,
+
+This is a friendly reminder that invoice INV-21506 (₹22,30,000) from Falcon Enterprises is still pending payment. Kindly process this urgently, within the hour using the account details previously shared, and send confirmation once done.
+
+Regards,
+Amit Verma",bec,fake_vendor_payment_reminder
+Updated payment details for INV-71433,"Dear Anjali,
+
+Please note that our banking details have changed. For invoice INV-71433 (amount ₹12,40,000), kindly remit payment to our new account at SBI going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Crestline Traders",bec,vendor_invoice_fraud
+Time-sensitive legal matter - your action needed,"Dear Anjali,
+
+I'm assisting Rohit Malhotra on a confidential legal matter regarding Falcon Enterprises. We need a payment of ₹4,85,000 processed as soon as possible to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Confidential - handle personally,"Hi Vikram,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $18,500 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this urgently, within the hour?
+
+Thanks,
+Meera Reddy",bec,fake_ceo_wire_request
+Confidential - handle personally,"Hi Amit,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹9,60,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this immediately?
+
+Thanks,
+Deepa Nair",bec,fake_ceo_wire_request
+Time-sensitive legal matter - your action needed,"Dear Priya,
+
+I'm assisting Deepa Gupta on a confidential legal matter regarding Nova Industries. We need a payment of ₹22,30,000 processed immediately to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Updated payment details for INV-13783,"Dear Sanjay,
+
+Please note that our banking details have changed. For invoice INV-13783 (amount ₹12,40,000), kindly remit payment to our new account at SBI going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Falcon Enterprises",bec,vendor_invoice_fraud
+Outstanding invoice INV-94109 - payment overdue,"Hello Vikram,
+
+Invoice INV-94109 for $18,500 remains outstanding. Please process payment as soon as possible to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Sunita Verma
+Falcon Enterprises",bec,vendor_invoice_fraud
+Time-sensitive legal matter - your action needed,"Dear Rohit,
+
+I'm assisting Karan Nair on a confidential legal matter regarding BlueRidge Textiles. We need a payment of ₹4,85,000 processed before end of day to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Payroll account change request - immediately,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm immediately so my next paycheck isn't delayed.
+
+Regards,
+Karan Nair",bec,hr_payroll_redirect
+Quick request - as soon as possible,"Hi Kavita,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹12,40,000 to a new vendor account as soon as possible. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Sunita Verma
+CEO, Falcon Enterprises",bec,fake_ceo_wire_request
+Updated payment details for INV-74251,"Dear Priya,
+
+Please note that our banking details have changed. For invoice INV-74251 (amount $6,200), kindly remit payment to our new account at HDFC Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Vertex Solutions",bec,vendor_invoice_fraud
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Arjun Choudhary",bec,hr_payroll_redirect
+Confidential - handle personally,"Hi Sanjay,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹4,85,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this as soon as possible?
+
+Thanks,
+Rajesh Verma",bec,fake_ceo_wire_request
+Outstanding invoice INV-26547 - payment overdue,"Hello Arjun,
+
+Invoice INV-26547 for ₹4,85,000 remains outstanding. Please process payment as soon as possible to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Rohit Malhotra
+Summit Logistics",bec,vendor_invoice_fraud
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Anjali Sharma",bec,hr_payroll_redirect
+Compliance action required - INV-96193,"Hello Karan,
+
+Our compliance review flagged an outstanding settlement (INV-96193, $18,500) that must be resolved urgently, within the hour to avoid regulatory penalties for BlueRidge Textiles. Please action this personally.
+
+Regards,
+Neha Bansal",bec,fake_legal_compliance_request
+Outstanding invoice INV-48696 - payment overdue,"Hello Sunita,
+
+Invoice INV-48696 for ₹9,60,000 remains outstanding. Please process payment immediately to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Arjun Choudhary
+Vertex Solutions",bec,vendor_invoice_fraud
+Updated payment details for INV-19961,"Dear Rajesh,
+
+Please note that our banking details have changed. For invoice INV-19961 (amount $18,500), kindly remit payment to our new account at SBI going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Meridian Exports",bec,vendor_invoice_fraud
+Outstanding invoice INV-68287 - payment overdue,"Hello Arjun,
+
+Invoice INV-68287 for ₹22,30,000 remains outstanding. Please process payment before end of day to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Vikram Sharma
+Vertex Solutions",bec,vendor_invoice_fraud
+Time-sensitive legal matter - your action needed,"Dear Sunita,
+
+I'm assisting Arjun Choudhary on a confidential legal matter regarding Orion Manufacturing. We need a payment of ₹1,25,000 processed before close of business today to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Confidential - handle personally,"Hi Deepa,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹1,25,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this immediately?
+
+Thanks,
+Vikram Reddy",bec,fake_ceo_wire_request
+Updated payment details for INV-89905,"Dear Vikram,
+
+Please note that our banking details have changed. For invoice INV-89905 (amount ₹4,85,000), kindly remit payment to our new account at Axis Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Meridian Exports",bec,vendor_invoice_fraud
+Compliance action required - INV-91924,"Hello Kavita,
+
+Our compliance review flagged an outstanding settlement (INV-91924, $18,500) that must be resolved before close of business today to avoid regulatory penalties for Vertex Solutions. Please action this personally.
+
+Regards,
+Karan Verma",bec,fake_legal_compliance_request
+Quick request - before end of day,"Hi Arjun,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹1,25,000 to a new vendor account before end of day. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Priya Joshi
+CEO, Crestline Traders",bec,fake_ceo_wire_request
+Payroll account change request - before close of business today,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm before close of business today so my next paycheck isn't delayed.
+
+Regards,
+Kavita Bansal",bec,hr_payroll_redirect
+Payroll account change request - before close of business today,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm before close of business today so my next paycheck isn't delayed.
+
+Regards,
+Sanjay Joshi",bec,hr_payroll_redirect
+Updated payment details for INV-24168,"Dear Anjali,
+
+Please note that our banking details have changed. For invoice INV-24168 (amount ₹9,60,000), kindly remit payment to our new account at ICICI Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, BlueRidge Textiles",bec,vendor_invoice_fraud
+Confidential - handle personally,"Hi Kavita,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹22,30,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this before close of business today?
+
+Thanks,
+Rajesh Joshi",bec,fake_ceo_wire_request
+Quick request - immediately,"Hi Anjali,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹22,30,000 to a new vendor account immediately. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Arjun Nair
+CEO, Orion Manufacturing",bec,fake_ceo_wire_request
+Payroll account change request - before close of business today,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm before close of business today so my next paycheck isn't delayed.
+
+Regards,
+Neha Malhotra",bec,hr_payroll_redirect
+Time-sensitive legal matter - your action needed,"Dear Sanjay,
+
+I'm assisting Kavita Sharma on a confidential legal matter regarding Vertex Solutions. We need a payment of ₹1,25,000 processed before close of business today to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Confidential - handle personally,"Hi Neha,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹9,60,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this immediately?
+
+Thanks,
+Rajesh Verma",bec,fake_ceo_wire_request
+Quick request - before close of business today,"Hi Priya,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of $6,200 to a new vendor account before close of business today. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Priya Malhotra
+CEO, Meridian Exports",bec,fake_ceo_wire_request
+Quick request - immediately,"Hi Meera,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of $6,200 to a new vendor account immediately. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Deepa Sharma
+CEO, BlueRidge Textiles",bec,fake_ceo_wire_request
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Sanjay Nair",bec,hr_payroll_redirect
+Reminder: INV-18617 payment pending,"Dear Neha,
+
+This is a friendly reminder that invoice INV-18617 (₹12,40,000) from Summit Logistics is still pending payment. Kindly process this urgently, within the hour using the account details previously shared, and send confirmation once done.
+
+Regards,
+Kavita Joshi",bec,fake_vendor_payment_reminder
+Second notice - INV-52096 overdue,"Hi Arjun,
+
+We haven't received payment for INV-52096 (₹9,60,000). Please arrange the transfer urgently, within the hour to avoid late fees and account suspension with Falcon Enterprises.
+
+Thanks,
+Rohit Mehta",bec,fake_vendor_payment_reminder
+Confidential - handle personally,"Hi Karan,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹9,60,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this immediately?
+
+Thanks,
+Karan Joshi",bec,fake_ceo_wire_request
+Compliance action required - INV-84107,"Hello Arjun,
+
+Our compliance review flagged an outstanding settlement (INV-84107, ₹12,40,000) that must be resolved immediately to avoid regulatory penalties for Falcon Enterprises. Please action this personally.
+
+Regards,
+Deepa Mehta",bec,fake_legal_compliance_request
+Second notice - INV-51124 overdue,"Hi Sanjay,
+
+We haven't received payment for INV-51124 ($6,200). Please arrange the transfer before end of day to avoid late fees and account suspension with Vertex Solutions.
+
+Thanks,
+Sunita Joshi",bec,fake_vendor_payment_reminder
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Neha Malhotra",bec,hr_payroll_redirect
+Outstanding invoice INV-31567 - payment overdue,"Hello Amit,
+
+Invoice INV-31567 for ₹9,60,000 remains outstanding. Please process payment urgently, within the hour to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Sunita Gupta
+Vertex Solutions",bec,vendor_invoice_fraud
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Priya Mehta",bec,hr_payroll_redirect
+Compliance action required - INV-57059,"Hello Amit,
+
+Our compliance review flagged an outstanding settlement (INV-57059, ₹4,85,000) that must be resolved immediately to avoid regulatory penalties for Falcon Enterprises. Please action this personally.
+
+Regards,
+Amit Nair",bec,fake_legal_compliance_request
+Reminder: INV-35729 payment pending,"Dear Deepa,
+
+This is a friendly reminder that invoice INV-35729 (₹9,60,000) from Crestline Traders is still pending payment. Kindly process this as soon as possible using the account details previously shared, and send confirmation once done.
+
+Regards,
+Sunita Nair",bec,fake_vendor_payment_reminder
+Updated payment details for INV-31747,"Dear Rohit,
+
+Please note that our banking details have changed. For invoice INV-31747 (amount ₹4,85,000), kindly remit payment to our new account at HDFC Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Summit Logistics",bec,vendor_invoice_fraud
+Payroll account change request - immediately,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm immediately so my next paycheck isn't delayed.
+
+Regards,
+Kavita Bansal",bec,hr_payroll_redirect
+Updated payment details for INV-40005,"Dear Arjun,
+
+Please note that our banking details have changed. For invoice INV-40005 (amount ₹12,40,000), kindly remit payment to our new account at HDFC Bank going forward. Let us know once the transfer is complete.
+
+Best regards,
+Accounts Team, Crestline Traders",bec,vendor_invoice_fraud
+Payroll account change request - immediately,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm immediately so my next paycheck isn't delayed.
+
+Regards,
+Rohit Kapoor",bec,hr_payroll_redirect
+Reminder: INV-83783 payment pending,"Dear Anjali,
+
+This is a friendly reminder that invoice INV-83783 (₹22,30,000) from Vertex Solutions is still pending payment. Kindly process this urgently, within the hour using the account details previously shared, and send confirmation once done.
+
+Regards,
+Deepa Iyer",bec,fake_vendor_payment_reminder
+Quick request - before end of day,"Hi Anjali,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹12,40,000 to a new vendor account before end of day. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Priya Malhotra
+CEO, Orion Manufacturing",bec,fake_ceo_wire_request
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Vikram Malhotra",bec,hr_payroll_redirect
+Time-sensitive legal matter - your action needed,"Dear Vikram,
+
+I'm assisting Arjun Kapoor on a confidential legal matter regarding BlueRidge Textiles. We need a payment of $18,500 processed as soon as possible to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Time-sensitive legal matter - your action needed,"Dear Amit,
+
+I'm assisting Sunita Reddy on a confidential legal matter regarding Crestline Traders. We need a payment of ₹9,60,000 processed immediately to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Time-sensitive legal matter - your action needed,"Dear Rajesh,
+
+I'm assisting Vikram Kapoor on a confidential legal matter regarding Nova Industries. We need a payment of $18,500 processed as soon as possible to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Payroll account change request - immediately,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm immediately so my next paycheck isn't delayed.
+
+Regards,
+Arjun Choudhary",bec,hr_payroll_redirect
+Compliance action required - INV-57945,"Hello Karan,
+
+Our compliance review flagged an outstanding settlement (INV-57945, ₹2,75,500) that must be resolved urgently, within the hour to avoid regulatory penalties for BlueRidge Textiles. Please action this personally.
+
+Regards,
+Deepa Verma",bec,fake_legal_compliance_request
+Quick request - immediately,"Hi Deepa,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹12,40,000 to a new vendor account immediately. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Priya Sharma
+CEO, Orion Manufacturing",bec,fake_ceo_wire_request
+Second notice - INV-44995 overdue,"Hi Sunita,
+
+We haven't received payment for INV-44995 (₹22,30,000). Please arrange the transfer urgently, within the hour to avoid late fees and account suspension with Meridian Exports.
+
+Thanks,
+Rajesh Iyer",bec,fake_vendor_payment_reminder
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Vikram Mehta",bec,hr_payroll_redirect
+Reminder: INV-63665 payment pending,"Dear Arjun,
+
+This is a friendly reminder that invoice INV-63665 ($6,200) from Falcon Enterprises is still pending payment. Kindly process this as soon as possible using the account details previously shared, and send confirmation once done.
+
+Regards,
+Deepa Bansal",bec,fake_vendor_payment_reminder
+"Payroll account change request - urgently, within the hour","Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm urgently, within the hour so my next paycheck isn't delayed.
+
+Regards,
+Priya Nair",bec,hr_payroll_redirect
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Arjun Choudhary",bec,hr_payroll_redirect
+Time-sensitive legal matter - your action needed,"Dear Amit,
+
+I'm assisting Priya Gupta on a confidential legal matter regarding Meridian Exports. We need a payment of $6,200 processed immediately to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Outstanding invoice INV-91381 - payment overdue,"Hello Meera,
+
+Invoice INV-91381 for $18,500 remains outstanding. Please process payment urgently, within the hour to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Vikram Reddy
+Vertex Solutions",bec,vendor_invoice_fraud
+Reminder: INV-34881 payment pending,"Dear Arjun,
+
+This is a friendly reminder that invoice INV-34881 (₹1,25,000) from Vertex Solutions is still pending payment. Kindly process this before end of day using the account details previously shared, and send confirmation once done.
+
+Regards,
+Sunita Gupta",bec,fake_vendor_payment_reminder
+"Payroll account change request - urgently, within the hour","Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm urgently, within the hour so my next paycheck isn't delayed.
+
+Regards,
+Rohit Malhotra",bec,hr_payroll_redirect
+Confidential - handle personally,"Hi Arjun,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need $18,500 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this urgently, within the hour?
+
+Thanks,
+Meera Sharma",bec,fake_ceo_wire_request
+Time-sensitive legal matter - your action needed,"Dear Neha,
+
+I'm assisting Rohit Verma on a confidential legal matter regarding Falcon Enterprises. We need a payment of ₹12,40,000 processed before end of day to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Quick request - as soon as possible,"Hi Vikram,
+
+I'm currently in a board meeting and can't talk right now. I need you to process a wire transfer of ₹12,40,000 to a new vendor account as soon as possible. I'll send the account details separately - please confirm you're available to action this now.
+
+Regards,
+Rohit Verma
+CEO, Summit Logistics",bec,fake_ceo_wire_request
+"Payroll account change request - urgently, within the hour","Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm urgently, within the hour so my next paycheck isn't delayed.
+
+Regards,
+Rajesh Malhotra",bec,hr_payroll_redirect
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Sanjay Reddy",bec,hr_payroll_redirect
+Payroll account change request - as soon as possible,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm as soon as possible so my next paycheck isn't delayed.
+
+Regards,
+Sunita Nair",bec,hr_payroll_redirect
+Time-sensitive legal matter - your action needed,"Dear Amit,
+
+I'm assisting Vikram Kapoor on a confidential legal matter regarding Summit Logistics. We need a payment of ₹22,30,000 processed before end of day to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Outstanding invoice INV-47700 - payment overdue,"Hello Rohit,
+
+Invoice INV-47700 for ₹22,30,000 remains outstanding. Please process payment as soon as possible to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Vikram Mehta
+Crestline Traders",bec,vendor_invoice_fraud
+Time-sensitive legal matter - your action needed,"Dear Arjun,
+
+I'm assisting Sanjay Joshi on a confidential legal matter regarding Summit Logistics. We need a payment of $18,500 processed before end of day to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Second notice - INV-66059 overdue,"Hi Anjali,
+
+We haven't received payment for INV-66059 ($6,200). Please arrange the transfer as soon as possible to avoid late fees and account suspension with Summit Logistics.
+
+Thanks,
+Rohit Reddy",bec,fake_vendor_payment_reminder
+Confidential - handle personally,"Hi Vikram,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹1,25,000 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this before close of business today?
+
+Thanks,
+Arjun Mehta",bec,fake_ceo_wire_request
+Reminder: INV-99143 payment pending,"Dear Priya,
+
+This is a friendly reminder that invoice INV-99143 (₹22,30,000) from BlueRidge Textiles is still pending payment. Kindly process this as soon as possible using the account details previously shared, and send confirmation once done.
+
+Regards,
+Amit Nair",bec,fake_vendor_payment_reminder
+Payroll account change request - before close of business today,"Hello,
+
+Could you please update my salary account details on file? My previous account is no longer active. Please confirm before close of business today so my next paycheck isn't delayed.
+
+Regards,
+Kavita Mehta",bec,hr_payroll_redirect
+Time-sensitive legal matter - your action needed,"Dear Sanjay,
+
+I'm assisting Anjali Malhotra on a confidential legal matter regarding Nova Industries. We need a payment of ₹1,25,000 processed before end of day to settle this before it escalates. Please treat this as strictly confidential.
+
+Regards,
+Legal Counsel",bec,fake_legal_compliance_request
+Compliance action required - INV-63626,"Hello Kavita,
+
+Our compliance review flagged an outstanding settlement (INV-63626, ₹22,30,000) that must be resolved before close of business today to avoid regulatory penalties for Meridian Exports. Please action this personally.
+
+Regards,
+Amit Reddy",bec,fake_legal_compliance_request
+Outstanding invoice INV-34727 - payment overdue,"Hello Neha,
+
+Invoice INV-34727 for ₹1,25,000 remains outstanding. Please process payment before end of day to our updated beneficiary account (details attached) to avoid service disruption.
+
+Regards,
+Neha Joshi
+Meridian Exports",bec,vendor_invoice_fraud
+Update to my direct deposit details,"Hi HR Team,
+
+I recently switched banks and need to update my direct deposit information for payroll. Please update my account to the new details I'll send in a follow-up, and confirm the change takes effect from the next pay cycle.
+
+Thanks,
+Kavita Malhotra",bec,hr_payroll_redirect
+Compliance action required - INV-92955,"Hello Kavita,
+
+Our compliance review flagged an outstanding settlement (INV-92955, ₹9,60,000) that must be resolved before close of business today to avoid regulatory penalties for Meridian Exports. Please action this personally.
+
+Regards,
+Neha Gupta",bec,fake_legal_compliance_request
+Confidential - handle personally,"Hi Anjali,
+
+This is confidential, please don't discuss it with anyone else on the team yet. I need ₹2,75,500 transferred to finalize an acquisition we're working on. Time-sensitive - can you process this before end of day?
+
+Thanks,
+Rohit Sharma",bec,fake_ceo_wire_request

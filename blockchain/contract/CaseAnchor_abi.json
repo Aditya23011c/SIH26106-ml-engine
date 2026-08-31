@@ -1,0 +1,53 @@
+[
+  {
+    "inputs": [],
+    "stateMutability": "nonpayable",
+    "type": "constructor"
+  },
+  {
+    "anonymous": false,
+    "inputs": [
+      { "indexed": true, "internalType": "string", "name": "caseId", "type": "string" },
+      { "indexed": false, "internalType": "bytes32", "name": "caseHash", "type": "bytes32" },
+      { "indexed": false, "internalType": "uint256", "name": "timestamp", "type": "uint256" },
+      { "indexed": false, "internalType": "address", "name": "anchoredBy", "type": "address" }
+    ],
+    "name": "CaseAnchored",
+    "type": "event"
+  },
+  {
+    "inputs": [
+      { "internalType": "string", "name": "caseId", "type": "string" },
+      { "internalType": "bytes32", "name": "caseHash", "type": "bytes32" }
+    ],
+    "name": "anchorCase",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [{ "internalType": "string", "name": "caseId", "type": "string" }],
+    "name": "getCase",
+    "outputs": [
+      { "internalType": "bytes32", "name": "caseHash", "type": "bytes32" },
+      { "internalType": "uint256", "name": "timestamp", "type": "uint256" },
+      { "internalType": "address", "name": "anchoredBy", "type": "address" }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [{ "internalType": "string", "name": "caseId", "type": "string" }],
+    "name": "isAnchored",
+    "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "owner",
+    "outputs": [{ "internalType": "address", "name": "", "type": "address" }],
+    "stateMutability": "view",
+    "type": "function"
+  }
+]

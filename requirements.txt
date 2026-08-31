@@ -1,0 +1,28 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.4
+scipy>=1.11
+joblib>=1.3
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+matplotlib>=3.8
+seaborn>=0.13
+fastapi
+uvicorn[standard]
+pydantic
+
+# ML / detection
+scikit-learn
+joblib
+torch
+transformers
+huggingface_hub
+
+# Blockchain layer
+web3
+python-dotenv
+
+# MongoDB analytics layer
+pymongo[srv]
+dnspython
