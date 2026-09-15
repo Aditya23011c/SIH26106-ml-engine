@@ -183,7 +183,14 @@ def root():
 
 @app.get("/health")
 def health():
-    return {"status": "ok", "model_type": MODEL_TYPE, "labels": LABELS}
+    return {
+        "status": "ok",
+        "model_type": MODEL_TYPE,
+        "labels": LABELS,
+        "team_name": "Brute Force",
+        "project_name": "Mail Rakshak",
+        "problem_statement_id": "SIH26106",
+    }
 
 
 @app.post("/classify", response_model=ClassificationOutput)
