@@ -4,5 +4,11 @@ __pycache__/
 *.pyc
 data/raw/
 models/distilbert-phishing-final/
+models/distilbert-phishing-final-v4/
 data/training_set.csv
 data/raw_kaggle/
+# Temporary / experimental scripts
+diagnose_model.py
+models/build_training_set_backup.py
+models/synthesize_legitimate_diverse.py
+models/synthesize_legitimate_diverse_backup.py
