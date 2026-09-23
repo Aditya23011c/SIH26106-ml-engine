@@ -216,7 +216,12 @@ def predict_distilbert(text: str):
     pred_idx = int(torch.argmax(probs))
     confidence = float(probs[pred_idx])
     label = distilbert_model.config.id2label[pred_idx]
-    return label, confidence
+    probabilities = {
+        "legitimate": float(probs[0]),
+        "phishing": float(probs[1]),
+        "bec": float(probs[2]),
+    }
+    return label, confidence, probabilities
 
 
 def predict_baseline(text: str):
@@ -227,7 +232,11 @@ def predict_baseline(text: str):
     pred_idx = proba.argmax()
     confidence = float(proba[pred_idx])
     label = model.classes_[pred_idx]
-    return label, confidence
+    probabilities = {"legitimate": 0.0, "phishing": 0.0, "bec": 0.0}
+    for class_name, probability in zip(model.classes_, proba):
+        if class_name in probabilities:
+            probabilities[class_name] = float(probability)
+    return label, confidence, probabilities
 
 
 # ---------- Request / response models ----------
@@ -242,6 +251,7 @@ class EmailInput(BaseModel):
 class ClassificationOutput(BaseModel):
     classification: str
     confidence_score: float
+    model_probabilities: dict
     matched_indicators: dict
     processed_at: str
 
@@ -281,9 +291,9 @@ def classify_email(email: EmailInput):
     text = clean_text(raw_text)
 
     if MODEL_TYPE == "distilbert":
-        label, confidence = predict_distilbert(text)
+        label, confidence, probabilities = predict_distilbert(text)
     else:
-        label, confidence = predict_baseline(text)
+        label, confidence, probabilities = predict_baseline(text)
 
     indicators = extract_indicators(raw_text)
 
@@ -303,6 +313,7 @@ def classify_email(email: EmailInput):
     return ClassificationOutput(
         classification=label,
         confidence_score=round(confidence * 100, 1),
+        model_probabilities={key: round(value * 100, 2) for key, value in probabilities.items()},
         matched_indicators=indicators,
         processed_at=datetime.now(timezone.utc).isoformat(),
     )
